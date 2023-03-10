@@ -7,4 +7,4 @@
 
 因为作者已经对整门课有一个完整的了解了，所以可能会对一些自以为很显然的地方不作详细解释。如果有任何看不懂的地方，一定不是读者的问题而是作者的问题，请积极联系作者，谢谢各位读者的配合。
 
-笔记中的公式使用了部分 `physics` 宏包的命令，在 Typora 中启用相关选项可以正确渲染。[Releases](https://github.com/SkiperDyxx/USTC_AlgorithmForBigData2023/releases) 中也有编译的 PDF 版本。
+笔记中的公式使用了部分 `physics` 宏包的命令，在 Typora 中启用相关选项可以正确渲染。[Releases](https://github.com/SkiperDyxx/USTC_AlgorithmForBigData2023/releases) 中也有 PDF 版本。
